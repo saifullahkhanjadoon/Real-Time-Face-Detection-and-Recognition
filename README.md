@@ -45,7 +45,7 @@ Exit the Program: Press the 'q' key to stop the video feed and close the applica
 ### Example
 Clone the repository to get started:
 
-git clone https://github.com/your-username/real-time-face-detection.git
+git clone https://github.com/saifullahkhanjadoon/real-time-face-detection.git
 Navigate to the project directory:
 
 cd real-time-face-detection
