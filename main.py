@@ -11,7 +11,7 @@ known_person2_image = face_recognition.load_image_file("C:/Users/Saifullah Khan/
 known_person3_image = face_recognition.load_image_file("C:/Users/Saifullah Khan/Desktop/python project/sami.jpg")
 known_person4_image = face_recognition.load_image_file("C:/Users/Saifullah Khan/Desktop/python project/saad.jpg")
 
-# Use face_encodings method instead of face_encoding (the correct one)
+
 known_person1_encoding = face_recognition.face_encodings(known_person1_image)[0]
 known_person2_encoding = face_recognition.face_encodings(known_person2_image)[0]
 known_person3_encoding = face_recognition.face_encodings(known_person3_image)[0]
